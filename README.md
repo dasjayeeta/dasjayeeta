@@ -6,7 +6,7 @@
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
-<a href ="http://www.linkedin.com/in/jayeeta-das-6b7b17276"></a>
+**http://www.linkedin.com/in/jayeeta-das-6b7b17276**
 <p align="left">
 
 </p>
