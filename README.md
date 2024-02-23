@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayeeta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasjayeeta&label=Profile%20views&color=0e75b6&style=flat" alt="dasjayeeta" /> </p>
 
-- 📫 How to reach me **jayeetadas239@gmail.com**
-
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
